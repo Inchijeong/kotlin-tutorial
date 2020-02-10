@@ -1,0 +1,1 @@
+package basics.demo // 소스파일 위치와 패키지를 일치시킬 필요 없다.
